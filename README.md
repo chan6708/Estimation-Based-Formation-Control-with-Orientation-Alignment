@@ -35,6 +35,7 @@ Ensure you have Anaconda installed on your system.
 conda create -n myenv python=3.10.19
 conda activate myenv
 pip install numpy matplotlib scipy pandas numba cvxpy control tqdm openpyxl
+```bash
 
 ### Installation
 Clone this repository to your local machine using:
