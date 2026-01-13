@@ -1,4 +1,4 @@
-# Estimation-based-Formation-Control-with-Orientation_Alignment
+# Estimation-based-Formation-Control-with-Orientation-Alignment
 
 This repository contains the simulation source code for estimation-based formation control with orientation alignment. It implements the proposed method alongside comparison baseline methods as described in our paper.
 
