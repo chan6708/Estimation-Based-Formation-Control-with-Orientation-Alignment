@@ -43,12 +43,16 @@ Clone this repository to your local machine using:
 
 ```bash
 git clone https://github.com/HMCL-UNIST/MAS-Distributed-Ctrl-Est-Synthesis.git
+```
+
 
 ### Running the Simulation
 To run the simulation, execute the following command in the terminal:
 
 ```bash
 python3 MCMC_comparison.py
+```
+
 
 ### Configuration Options
 Before running the simulation, you can configure several parameters within MCMC_comparison.py to tailor the simulation to your needs:
@@ -59,7 +63,10 @@ Before running the simulation, you can configure several parameters within MCMC_
 
 3. Parallel Processing Workers: Specify the maximum number of worker threads to be used for concurrent simulations by defining "max_concurrent_processes". Increasing this value can significantly reduce total execution time on multi-core CPUs. For instance: "max_concurrent_processes = 2".
 
+
 ### Configuration Options
 To check the RMSE, execute the following command in the terminal:
+
 ```bash
 python3 RMSE_scatter.py
+```
