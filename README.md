@@ -10,7 +10,7 @@ Click the image below to watch on Youtube.
 
 [![Simulation Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-> **Note:** Replace `YOUR_VIDEO_ID` with the actual ID from your YouTube URL.
+> **Note:** Video will be updated later.
 
 ---
 
@@ -42,7 +42,7 @@ pip install numpy matplotlib scipy pandas numba cvxpy control tqdm openpyxl
 Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/HMCL-UNIST/MAS-Distributed-Ctrl-Est-Synthesis.git
+git clone https://github.com/HMCL-UNIST/Estimation-based-Formation-Control-with-Orientation-Alignment.git
 ```
 
 
